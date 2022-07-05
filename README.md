@@ -1,0 +1,2 @@
+# StaticFiles
+ Static
