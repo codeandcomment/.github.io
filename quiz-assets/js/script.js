@@ -1,27 +1,27 @@
-$(function(){
+// $(function(){
   // ========== Form-select-option ========== //
-  $(".step_1").on('click', function(){
-    $(".step_1").removeClass("active");
-    $(this).addClass("active");
-  });
-  $(".step_2").on('click', function(){
-    $(".step_2").removeClass("active");
-    $(this).addClass("active");
-  });
-  $(".step_3").on('click', function(){
-    $(".step_3").removeClass("active");
-    $(this).addClass("active");
-  });
-  $(".step_4").on('click', function(){
-    $(".step_4").removeClass("active");
-    $(this).addClass("active");
-  });
-  $(".step_5").on('click', function(){
-    $(".step_5").removeClass("active");
-    $(this).addClass("active");
-  });
+//   $(".step_1").on('click', function(){
+//     $(".step_1").removeClass("active");
+//     $(this).addClass("active");
+//   });
+//   $(".step_2").on('click', function(){
+//     $(".step_2").removeClass("active");
+//     $(this).addClass("active");
+//   });
+//   $(".step_3").on('click', function(){
+//     $(".step_3").removeClass("active");
+//     $(this).addClass("active");
+//   });
+//   $(".step_4").on('click', function(){
+//     $(".step_4").removeClass("active");
+//     $(this).addClass("active");
+//   });
+//   $(".step_5").on('click', function(){
+//     $(".step_5").removeClass("active");
+//     $(this).addClass("active");
+//   });
   
-});
+// });
 
 var currentTab = 0; // Current tab is set to be the first tab (0)
 showTab(currentTab); // Display the current tab
