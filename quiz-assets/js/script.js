@@ -1,5 +1,5 @@
 $(function(){
-  ========== Form-select-option ========== //
+//   ========== Form-select-option ========== //
   $(".step_1").on('click', function(){
     $(".step_1").removeClass("active");
     $(this).addClass("active");
